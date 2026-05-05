@@ -1,30 +1,42 @@
-# Game Title: amazing-runner
+# Game Title: Amazing Runner
 
-game description: 2d game consist of a player and the main aim of that player is reaching to the ending point without touching one of these dangerous enemies or falling in holes, with collecting the highest score of coins. 
+## Game Description
+Amazing Runner is a 2D platformer game where the player must reach the end point while avoiding dangerous enemies and falling into holes, while collecting as many coins as possible to achieve the highest score.
 
+## How to Play
+Your goal is to safely reach the finish point while avoiding obstacles and enemies, and collecting coins along the way to increase your score.
 
-##  Features
+## Controls
+- Move Left: A / Left Arrow
+- Move Right: D / Right Arrow
+- Jump: W / Up Arrow / Spacebar
+- Dash (if available): Shift
+- Pause: Esc
+  
 
-- Player movement (walk, jump, dash, etc.)
-- Enemy 
+## Features
+- Player movement (walk, jump, dash)
+- Enemies and obstacles
 - Collision system
-- Collectibles (coins)
-- Pause/restart system
+- Coin collection system
+- Score tracking
+- Pause and restart system
 
-
-
-##  Built With
-
+## Built With
 - Engine: Godot 4.6
-- coding language: GDScript
--Art: downloading assets with handmad map
-## game image: <img width="1677" height="950" alt="Screenshot 2026-05-05 113508" src="https://github.com/user-attachments/assets/58e4da00-5844-4750-848b-40fee245e54e" />
+- Programming Language: GDScript
+- Art: Downloaded assets with handmade map design
 
+## How to Run
+1. Download or clone the project files
+2. Open the project using Godot 4.6
+3. Run the main scene to start the game
 
-## play the game here: [https://omarmahany35-png.itch.io/jeme-jama](https://omarmahany35-png.itch.io/amazing-runner)
-##Author: Omar Mahany 
+## Game Screenshot
+<img width="1677" height="950" alt="Screenshot 2026-05-05 113508" src="https://github.com/user-attachments/assets/58e4da00-5844-4750-848b-40fee245e54e" />
 
+## Play the Game
+https://omarmahany35-png.itch.io/amazing-runner
 
-
-
-
+## Author
+Omar Mahany
